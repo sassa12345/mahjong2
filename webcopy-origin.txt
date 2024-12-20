@@ -1,0 +1,404 @@
+Uri: https://kobalab.net/majiang/
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\index-2.htm
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/audio/beep.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\beep-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/audio/chii.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\chii-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/audio/dahai11.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\dahai11-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/audio/kan.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\kan-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/audio/nc43994.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\nc43994-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/audio/pon.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\pon-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/audio/richi.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\richi-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/audio/ron.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\ron-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/audio/tsumo.wav
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\audio\tsumo-2.wav
+Content Type: application/octet-stream
+
+Uri: https://kobalab.net/majiang/autoplay.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\autoplay-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/css/majiang-2.4.11.css
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\css\majiang-2.4.11-2.css
+Content Type: text/css
+
+Uri: https://kobalab.net/majiang/dapai.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\dapai-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/drill.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\drill-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/hule.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\hule-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/img/100.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\100.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/1000.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\1000-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/icon-arrow-left.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-arrow-left-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-backward.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-backward-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-chevron-down.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-chevron-down-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-chevron-up.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-chevron-up-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-dotlist.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-dotlist-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-download-alt.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-download-alt-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-edit.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-edit-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-exit.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-exit-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-forward.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-forward-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-lightbulb-idea.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-lightbulb-idea-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-list.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-list-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-minus-sign.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-minus-sign-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-mutealt.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-mutealt-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-pause.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-pause-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-play.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-play-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-plus-sign.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-plus-sign-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-resize-vertical.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-resize-vertical-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-save-floppy.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-save-floppy-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-squaresearch.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-squaresearch-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-step-backward.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-step-backward-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-step-forward.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-step-forward-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-trash.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-trash-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-upload-alt.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-upload-alt-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon-volume-up.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-volume-up-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/icon.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\icon-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/logo.png
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\logo-2.png
+Content Type: image/png
+
+Uri: https://kobalab.net/majiang/img/m0.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m0-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m1.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m1-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m2.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m2-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m3.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m3-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m4.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m4-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m5.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m5-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m6.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m6-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m7.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m7-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m8.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m8-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/m9.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\m9-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p0.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p0-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p1.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p1-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p2.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p2-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p3.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p3-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p4.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p4-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p5.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p5-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p6.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p6-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p7.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p7-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p8.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p8-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/p9.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\p9-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/pai.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\pai-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s0.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s0-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s1.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s1-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s2.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s2-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s3.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s3-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s4.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s4-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s5.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s5-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s6.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s6-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s7.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s7-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s8.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s8-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/s9.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\s9-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/z1.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\z1-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/z2.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\z2-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/z3.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\z3-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/z4.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\z4-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/z5.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\z5-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/z6.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\z6-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/img/z7.gif
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\img\z7-2.gif
+Content Type: image/gif
+
+Uri: https://kobalab.net/majiang/index.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\index-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/js/autoplay-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\autoplay-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/dapai-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\dapai-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/drill-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\drill-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/hule-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\hule-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/index-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\index-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/majiang-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\majiang-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/netplay-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\netplay-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/paiga-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\paiga-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/paili-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\paili-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/paipu-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\paipu-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/js/rule-2.4.11.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\js\rule-2.4.11-2.js
+Content Type: application/javascript
+
+Uri: https://kobalab.net/majiang/netplay.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\netplay-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/paiga.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\paiga-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/paili.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\paili-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/paipu.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\paipu-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/rule.html
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\rule-2.html
+Content Type: text/html
+
+Uri: https://kobalab.net/majiang/server/socket.io/socket.io.js
+File Name: C:\Downloaded Web Sites\kobalab.net\majiang\server\socket.io\socket.io-2.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/favicon.ico
+File Name: C:\Downloaded Web Sites\kobalab.net\favicon-3.ico
+Content Type: image/x-icon
+
+Uri: https://www.hatena.ne.jp/p/images/favicon.ico
+File Name: C:\Downloaded Web Sites\kobalab.net\p\images\favicon-2.ico
+Content Type: image/x-icon
+
